@@ -1,9 +1,10 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "padosoft/satistest",
+    "description": "Test satis.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
+	"minimum-stability": "dev",
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*"
